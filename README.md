@@ -6,19 +6,9 @@
 > -- Richard Feynman
 
 This is the source for the book *500 Lines or Less*, the fourth in the
-[Architecture of Open Source Applications](http://aosabook.org) series.  As
-with other books in the series, all written material will be covered by the
-Creative Commons - Attribution license, and all code by the MIT License: please
-see the [license description](LICENSE.md) for details.  In addition, all
-royalties from paid-for versions will all go to Amnesty International.
+[Architecture of Open Source Applications](http://aosabook.org) series.
 
-The production of this book has been made possible by the financial support of
-[PagerDuty](http://www.pagerduty.com/company/work-with-us/).
-
-<p align="center">
-    <img src="https://github.com/aosabook/500lines/raw/master/resource/pagerduty_logo.png" alt="PagerDuty Logo" />
-</p>
-
+[Source](https://aosabook.org/en/index.html)
 
 Mission
 -------
